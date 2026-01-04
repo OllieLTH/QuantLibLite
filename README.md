@@ -18,7 +18,7 @@ It implements basic interest rate curves, interest rate swaps, European options,
 ---
 
 ## A minimal build guide
-mkdir build
-cd build
-cmake ..
-cmake --build .
+mkdir build  
+cd build  
+cmake ..  
+cmake --build .  
